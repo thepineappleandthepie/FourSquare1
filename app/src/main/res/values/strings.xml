@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FourSquare</string>
+
+    <string name="hometitle">FourSquare</string>
+    <string name="rulebutton">Rules</string>
+    <string name="playbutton">Play</string>
+    <String name="player1">player_1</String>
+    <String name="player2">player_2</String>
+    <string name="NameHint">Enter Your Name</string>
+    <string name="square">square</string>
+    <string name="four">4</string>
+    <string name="title">ENTER YOUR NAMES</string>
+    <string name="home">Home</string>
+    <string name="play">Play</string>
+    <string name="rules">RULES</string>
+    <string name="ruleText1">How To Play</string>
+    <string name="ruleText2">Both players first move can only be in one of the outer squares. there after players can use the whole board</string>
+    <string name="ruleText3">How to win</string>
+    <string name="ruleText4">if one player has 3 symbols in a row(diagonally, horizontally or vertically) they have won. if no player have achieved by the end of the game then it is a draw</string>
+    <string name="retry">Retry</string>
+    <string name="gameOver">GAME OVER</string>
+    <string name="playAgain">Play Again</string>
+    <string name="results">Player Won</string>
+</resources>
